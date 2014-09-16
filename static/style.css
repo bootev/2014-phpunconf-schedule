@@ -42,6 +42,7 @@ body * {
   -ms-flex-shrink: 1;
   flex-grow: 1;
   flex-shrink: 1;
+  width: 20%;
   min-width: 200px;
   padding: 10px;
   border: 1px solid #e5e5e5;
@@ -62,6 +63,8 @@ nav ul li {
   nav ul li.active {
     font-weight: bold; }
 
-/*# sourceMappingURL=style.css.map */
+body {
+  background-color: #F2F2F2;
 
+}
 /*# sourceMappingURL=style.css.map */
