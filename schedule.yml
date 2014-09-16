@@ -1,33 +1,261 @@
-title: My awesome conference
+title: PHP Unconference 2014
 days:
   - name: Saturday
     slots:
-      - start: '12:00'
-        end: '13:00'
+      - start: '9:30'
+        end: '10:30'
 
         talks:
-          - speaker: Robin Drexler
-            title: How Geloet will save us all
+          - speaker: ''
+            title: 'Entrance, registration, warm up'
+            location: Main Hall
+
+      - start: '10:30'
+        end: '12:00'
+
+        talks:
+          - speaker: ''
+            title: 'Topic: OPENING SESSION: Welcome, opening, illustration of the procedures during the conference, brainstorming and identifying session topics'
+            location: Main Hall
+
+      - start: '12:00'
+        end: '12:45'
+
+        talks:
+          - speaker: 'TBD'
+            title: 'TBD'
             location: H1
 
-          - speaker: Katrin Werner
-            title: Geloet is jsut not worth it
+          - speaker: 'TBD'
+            title: 'TBD'
             location: H2
 
-      - start: '12:00'
-        end: '13:00'
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H4
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H5
+
+      - start: '12:45'
+        end: '14:15'
 
         talks:
-          - speaker: Peter
-            title: Wurst is good
+          - speaker: ''
+            title: 'Lunch'
+            location: Main Hall
+
+      - start: '14:15'
+        end: '15:00'
+
+        talks:
+          - speaker: 'TBD'
+            title: 'TBD'
             location: H1
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H2
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H4
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H5
+
+      - start: '15:00'
+        end: '15:30'
+
+        talks:
+          - speaker: ''
+            title: 'Coffee Break'
+            location: Main Hall
+
+      - start: '15:30'
+        end: '16:15'
+
+        talks:
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H1
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H2
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H4
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H5
+
+      - start: '16:15'
+        end: '16:45'
+
+        talks:
+          - speaker: ''
+            title: 'Coffee Break'
+            location: Main Hall
+
+      - start: '16:45'
+        end: '17:30'
+
+        talks:
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H1
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H2
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H4
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H5
+
+      - start: '17:30'
+        end: '18:30'
+
+        talks:
+          - speaker: ''
+            title: 'Closing Meeting : Conclusion of sessions, Process Wiki entries, event feedback and planning for the social gatherings that evening after the event.'
+            location: Main Hall  
+
+      - start: '19:00'
+        end: 'open end'
+
+        talks:
+          - speaker: ''
+            title: 'Party PHProst'
+            location: '<a href="https://www.google.com/maps/place/Good+Old+Days+Dance+Bar/@53.563531,9.959284,17z/data=!3m1!4b1!4m2!3m1!1s0x47b18f42d354b6e7:0x2409f6f2f52cd803">Good old days dance bar</a>'
 
   - name: Sunday
     slots:
-      - start: '15:00'
-        end: '16:00'
+      - start: '10:00'
+        end: '11:00'
 
         talks:
-          - speaker: Robin Drexler
-            title: How Geloet will save us all pt 2
+          - speaker: ''
+            title: 'Welcome, opening, illustration of the procedures during the conference, brainstorming and identifying session topics'
+            location: Main Hall
+
+      - start: '11:30'
+        end: '12:15'
+
+        talks:
+          - speaker: 'TBD'
+            title: 'TBD'
             location: H1
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H2
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H4
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H5
+
+      - start: '12:15'
+        end: '12:30'
+
+        talks:
+          - speaker: ''
+            title: 'Coffee Break'
+            location: Main Hall
+
+      - start: '12:30'
+        end: '13:15'
+
+        talks:
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H1
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H2
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H4
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H5
+
+      - start: '13:15'
+        end: '14:30'
+
+        talks:
+          - speaker: ''
+            title: 'Lunch'
+            location: Main Hall
+
+      - start: '14:30'
+        end: '15:15'
+
+        talks:
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H1
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H2
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H4
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H5
+
+      - start: '15:15'
+        end: '15:45'
+
+        talks:
+          - speaker: ''
+            title: 'Coffee Break'
+            location: Main Hall
+
+      - start: '15:45'
+        end: '16:30'
+
+        talks:
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H1
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H2
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H4
+
+          - speaker: 'TBD'
+            title: 'TBD'
+            location: H5
+
+      - start: '16:30'
+        end: '17:30'
+
+        talks:
+          - speaker: ''
+            title: 'Closing Meeting : Conclusion of sessions, Process Wiki entries, event feedback'
+            location: Main Hall
