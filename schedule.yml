@@ -135,8 +135,8 @@ days:
 
         talks:
           - speaker: ''
-            title: 'Party PHProst'
-            location: '<a href="https://www.google.com/maps/place/Good+Old+Days+Dance+Bar/@53.563531,9.959284,17z/data=!3m1!4b1!4m2!3m1!1s0x47b18f42d354b6e7:0x2409f6f2f52cd803">Good old days dance bar</a>'
+            title: 'Party PHProst @ <a href="https://www.google.com/maps/place/Good+Old+Days+Dance+Bar/@53.563531,9.959284,17z/data=!3m1!4b1!4m2!3m1!1s0x47b18f42d354b6e7:0x2409f6f2f52cd803">Good old days dance bar</a>'
+            location: ''
 
   - name: Sunday
     slots:
