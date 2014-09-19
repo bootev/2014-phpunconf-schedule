@@ -145,7 +145,7 @@ days:
 
         talks:
           - speaker: ''
-            title: 'Welcome, opening, illustration of the procedures during the conference, brainstorming and identifying session topics'
+            title: 'Welcome, opening, illustration of the procedures during the conference, brainstorming and identifying session topics.'
             location: Main Hall
 
       - start: '11:30'
