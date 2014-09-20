@@ -22,20 +22,20 @@ days:
         end: '12:45'
 
         talks:
-          - speaker: 'TBD'
-            title: 'TBD'
+          - speaker: 'Bastian'
+            title: 'Components over controllers'
             location: H1
 
-          - speaker: 'TBD'
-            title: 'TBD'
+          - speaker: 'Julius Beckmann'
+            title: 'StackPHP and the idea behind PSR-7'
             location: H2
 
-          - speaker: 'TBD'
-            title: 'TBD'
+          - speaker: 'Ole'
+            title: '12 Factor'
             location: H4
 
-          - speaker: 'TBD'
-            title: 'TBD'
+          - speaker: 'Ralf Eggert'
+            title: 'Wir hatten ja nix'
             location: H6
 
       - start: '12:45'
@@ -50,20 +50,20 @@ days:
         end: '15:00'
 
         talks:
-          - speaker: 'TBD'
-            title: 'TBD'
+          - speaker: 'Gaylord'
+            title: 'Docker'
             location: H1
 
-          - speaker: 'TBD'
-            title: 'TBD'
+          - speaker: 'Michael'
+            title: 'Agile, Lean & Kanban - Freunde oder Feinde'
             location: H2
 
-          - speaker: 'TBD'
-            title: 'TBD'
+          - speaker: 'Ralf Eggert'
+            title: 'Apigility Einführung'
             location: H4
 
-          - speaker: 'TBD'
-            title: 'TBD'
+          - speaker: 'Susanne'
+            title: 'Datenschutz'
             location: H6
 
       - start: '15:00'
@@ -78,20 +78,20 @@ days:
         end: '16:15'
 
         talks:
-          - speaker: 'TBD'
-            title: 'TBD'
+          - speaker: 'Ole'
+            title: 'SOA oder skalierbare Architekturen mit verteilter Infrastruktur'
             location: H1
 
-          - speaker: 'TBD'
-            title: 'TBD'
+          - speaker: 'John Behrens'
+            title: 'Rapid Testing - Der Agile QA Baukasten'
             location: H2
 
-          - speaker: 'TBD'
-            title: 'TBD'
+          - speaker: 'Sönke'
+            title: 'Vagrant and Practise'
             location: H4
 
-          - speaker: 'TBD'
-            title: 'TBD'
+          - speaker: 'David'
+            title: 'I don\'t want to work, I just want to live'
             location: H6
 
       - start: '16:15'
@@ -106,20 +106,20 @@ days:
         end: '17:30'
 
         talks:
-          - speaker: 'TBD'
-            title: 'TBD'
+          - speaker: 'Susanne'
+            title: 'Hochverfügbarkeit mit MariaDB/MySQL'
             location: H1
 
-          - speaker: 'TBD'
-            title: 'TBD'
+          - speaker: 'David'
+            title: 'Mistake Driven Development'
             location: H2
 
-          - speaker: 'TBD'
-            title: 'TBD'
+          - speaker: 'Tobias'
+            title: 'Der Mythos des 10x Programmierers'
             location: H4
 
-          - speaker: 'TBD'
-            title: 'TBD'
+          - speaker: 'Kore'
+            title: 'A CouchDB replication endpoint in PHP'
             location: H6
 
       - start: '17:30'
