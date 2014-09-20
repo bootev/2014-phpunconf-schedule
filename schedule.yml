@@ -36,7 +36,7 @@ days:
 
           - speaker: 'TBD'
             title: 'TBD'
-            location: H5
+            location: H6
 
       - start: '12:45'
         end: '14:15'
@@ -64,7 +64,7 @@ days:
 
           - speaker: 'TBD'
             title: 'TBD'
-            location: H5
+            location: H6
 
       - start: '15:00'
         end: '15:30'
@@ -92,7 +92,7 @@ days:
 
           - speaker: 'TBD'
             title: 'TBD'
-            location: H5
+            location: H6
 
       - start: '16:15'
         end: '16:45'
@@ -120,7 +120,7 @@ days:
 
           - speaker: 'TBD'
             title: 'TBD'
-            location: H5
+            location: H6
 
       - start: '17:30'
         end: '18:30'
@@ -166,7 +166,7 @@ days:
 
           - speaker: 'TBD'
             title: 'TBD'
-            location: H5
+            location: H6
 
       - start: '12:15'
         end: '12:30'
@@ -194,7 +194,7 @@ days:
 
           - speaker: 'TBD'
             title: 'TBD'
-            location: H5
+            location: H6
 
       - start: '13:15'
         end: '14:30'
@@ -222,7 +222,7 @@ days:
 
           - speaker: 'TBD'
             title: 'TBD'
-            location: H5
+            location: H6
 
       - start: '15:15'
         end: '15:45'
@@ -250,7 +250,7 @@ days:
 
           - speaker: 'TBD'
             title: 'TBD'
-            location: H5
+            location: H6
 
       - start: '16:30'
         end: '17:30'
